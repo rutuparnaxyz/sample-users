@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Ms Dhoni",
+        "age": 40
+    },
+    {
+        "name": "Virat",
+        "age": 34
+    },
+    {
+        "name": "Rohit",
+        "age": 36
+    },
+    {
+        "name": "Sikhar",
+        "age": 34
+    },
+    {
+        "name": "Rahul",
+        "age": 29
+    },
+    {
+        "name": "Ms Dhoni here the name is more than 50 character so this should go to failed one. samplesamplesamplesamplesample",
+        "age": 40
+    },
+    {
+        "name": "Virat age is less than 20",
+        "age": 15
+    },
+    {
+        "name": "Rohit age is greater than 80",
+        "age": 86
+    },
+    {
+        "name": "Sikhar here both age and name are invalid so this should fail immediately and sample text for testing",
+        "age": 34
+    },
+    {
+        "name": "Rahul",
+        "age": 82
+    }
+]
