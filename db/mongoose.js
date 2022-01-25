@@ -1,3 +1,3 @@
 const mongoose = require('mongoose')
 
-mongoose.connect('mongodb+srv://rutuparna07:rutuparna07@clusterone.7gcfa.mongodb.net/sample-users')
+mongoose.connect('mongodb+srv://rutwewe07:dacfewfe07@clusterone.7qweda.mongodb1.net/sample-users')
